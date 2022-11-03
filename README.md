@@ -1,4 +1,3 @@
-Miguel Moreira
 - 👋 Hi, I’m @miguelmatamoreira
 - 👀 I’m interested in Data Science, AI/ML and Information Systems
 - 📫 Reach me at miguelmatamoreira@tecnico.ulisboa.pt
