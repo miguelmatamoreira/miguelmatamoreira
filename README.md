@@ -1,5 +1,5 @@
 - 👋 Hi, I am @miguelmatamoreira
-- 👀 I am interested in Data Science, Artifical Inteligence and Machine Learning
+- 👀 I am interested in Data Science, Machine Learning and Artificial Inteligence
 - 📫 Reach me at miguelmatamoreira@tecnico.ulisboa.pt
 
 <!---
