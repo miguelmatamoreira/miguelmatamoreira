@@ -1,6 +1,6 @@
 - 👋 Hi, I am @miguelmatamoreira
 - 👀 I am interested in Data Science, Machine Learning and Artificial Intelligence
-- 📫 Reach me at miguelmatamoreira@tecnico.ulisboa.pt
+- 📫 Reach me at miguel.moreira@daredata.ai
 
 <!---
 miguelmatamoreira/miguelmatamoreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
